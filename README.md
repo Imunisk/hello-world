@@ -6,6 +6,6 @@ This is a small one step.
 
 int main(void) {
    for (int i=0; i<5; i++) {
-      printf("Hello World %d", i);
+      printf("Hello World %d\n", i);
    }
 }
